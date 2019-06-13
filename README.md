@@ -7,5 +7,7 @@
       Разработать скрипт для визуализации данных, используя библиотеку matplotlib. 
       Для визуализации использовать тип “точечная диаграмма” (scatterplot).
       
-![Alt text](https://github.com/python-advance/sem6-t4-Kseniaveh/blob/master/task1.png)      
+![Alt text](https://github.com/python-advance/sem6-t4-Kseniaveh/blob/master/INVAR/task1.png)      
+
+![Alt text](https://github.com/python-advance/sem6-t4-Kseniaveh/blob/master/VAR/task_var.png)    
       
